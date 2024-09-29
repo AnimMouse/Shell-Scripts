@@ -1,1 +1,1 @@
-# Anim Mouse's Shell Scripts
+# Anim Mouse's shell scripts
